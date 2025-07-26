@@ -1,0 +1,17 @@
+{
+  "name": "@devborracho/shared-utils",
+  "version": "2.0.0",
+  "main": "index.js",
+  "type": "module",
+  "dependencies": {
+    "dotenv": "^17.2.1",
+    "jsonwebtoken": "9.0.2"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "Funciones compartidas para autenticación"
+}

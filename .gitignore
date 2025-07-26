@@ -1,0 +1,33 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Env files
+.env
+.env.local
+.env.*.local
+
+# Logs
+logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Optional build artifacts
+dist/
+build/
+
+# IDEs
+.vscode/
+.idea/
+
+# Railway-specific (opcional)
+railway/
+
+# Others
+coverage/

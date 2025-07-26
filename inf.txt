@@ -1,0 +1,4 @@
+# la creacion y lectura de cookies va en el api gateway osea que los 
+res.cookies y la instalacion y uso del paquete creado por mi va en 
+el gateway el verifyToken tambien solo que este debe actuar como front
+y enviar la informacion del token a el microservicio de auth
